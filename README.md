@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/your-username/repo-name?color=brightgreen" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/your-username/repo-name?color=brightgreen" alt="Last Commit">
-  <img src="https://img.shields.io/github/followers/your-username?color=brightgreen" alt="Followers">
+  <img src="https://img.shields.io/github/languages/top/phnumbahwan/animate-login-form?color=brightgreen" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/phnumbahwan/animate-login-form?color=brightgreen" alt="Last Commit">
+  <img src="https://img.shields.io/github/followers/Phnumbahwan?color=brightgreen" alt="Followers">
 </p>
 
 ## 🤔 About
