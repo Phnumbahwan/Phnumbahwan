@@ -58,3 +58,12 @@ I am a passionate, traveler, and dreamer programmer. I love solving problems and
 ## 🌟 Experience
 
 - [FLIGNO PH](https://fligno.com/) - Software Engineer - As a software engineer, I design, develop, test, and maintain software applications. I analyze user requirements, collaborate with cross-functional teams, and implement efficient, scalable, and maintainable software solutions. I also ensure that the software I create meets high-quality standards and follows best practices for security, performance, and reliability. Some specific responsibilities include writing clean code, debugging and troubleshooting issues, developing automated tests, collaborating with team members, participating in code reviews, and staying up-to-date with the latest trends and technologies.
+
+---
+## Buy me a coffee
+
+"Hey there! If you enjoy my work and want to support me, consider buying me a coffee. It helps me to continue creating and sharing content with you. Thanks in advance for your kind support!" :)
+
+<a href="https://www.buymeacoffee.com/gilpacturaD" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+---
