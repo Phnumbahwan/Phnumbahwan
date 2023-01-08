@@ -17,7 +17,7 @@
   <a href="#about">🤔 About</a> •
   <a href="#recent-repositories">📁 Recent Repositories</a> •
   <a href="#skills">💪 Skills</a> •
-  <a href="#project">📈 Projects</a> •
+  <a href="#portfolio">📈 Portfolio</a> •
   <a href="#experience">🌟 Experience</a>
 </p>
 
